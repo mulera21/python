@@ -1,1 +1,1 @@
- learning python from scrach upto advaance
+ learning python from scrach upto advance
